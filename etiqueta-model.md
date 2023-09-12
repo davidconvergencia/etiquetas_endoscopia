@@ -1,6 +1,6 @@
 # Etiqueta - Models 
 
-## PacienteModel
+## -- PacienteModel --
 
 ## Visão Geral
 
@@ -63,8 +63,3 @@ Algumas colunas da tabela estão configuradas para serem ocultas quando o modelo
 - `ind_completo`
 - `protocolo_cadastro`
 - `resp_obito`
-
-## Uso
-
-Este modelo pode ser usado para realizar operações de leitura de registros de pacientes no banco de dados PostgreSQL. 
-
